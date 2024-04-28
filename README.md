@@ -24,7 +24,7 @@ Siga estas etapas para rodar o projeto localmente:
 
 ## Preview do Projeto
 
-![Preview do Projeto](link_para_a_imagem.png)
+![Preview do Projeto](https://github.com/FIAP-2024-3SIS/cp02-92835-felipe-palmeira-feitosa/blob/main/Captura%20de%20Tela%202024-04-28%20a%CC%80s%2018.42.29.png)
 
 ## Contribuição
 
