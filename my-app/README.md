@@ -2,7 +2,7 @@
 
 # Projeto Angular
 
-Este é um projeto Angular incrível que faz X, Y, e Z.
+Este é um projeto Angular incrível que apresenta uma lista de animais.
 
 ## Rodando o Projeto
 
